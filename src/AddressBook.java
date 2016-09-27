@@ -22,7 +22,7 @@ public class AddressBook {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		BuddyInfo buddy = new BuddyInfo("Darsh",911,18,"Carleton");
+		BuddyInfo buddy = new BuddyInfo("Grewal",911,18,"Carleton");
 		AddressBook AB = new AddressBook();
 		System.out.println("Hello world!");
 		AB.addBuddy(buddy);
